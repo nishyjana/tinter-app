@@ -7,10 +7,12 @@ import SwipeButtons from './SwipeButtons';
 
 function App() {
   return (
+    //code
     <div className="App">
    <Header />
    <TinderCards/>
     <SwipeButtons/>
+    
     </div>
   );
 }
