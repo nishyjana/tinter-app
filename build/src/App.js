@@ -21,7 +21,7 @@ function App() {
    <Switch>
    <Route path="/chat">
    <Header backButton="/" />
-     <h1>im in caht page</h1>
+     <h1>HI baby boo</h1>
    </Route>
    <Route path="/">
    <Header />
